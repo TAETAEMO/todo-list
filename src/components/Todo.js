@@ -1,4 +1,3 @@
-// components/Todo.js
 import React from "react";
 import Button from "./Button";
 import styled from "styled-components";

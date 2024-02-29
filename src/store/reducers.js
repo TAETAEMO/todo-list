@@ -1,5 +1,3 @@
-// reducers.js
-
 import { ADD_TODO, DELETE_TODO } from "./actions";
 
 const initialState = {

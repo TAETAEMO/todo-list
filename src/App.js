@@ -5,7 +5,6 @@ import TodoList from "./components/TodoList";
 import styled from "styled-components";
 import Button from "./components/Button";
 
-// 스타일드 컴포넌트를 사용하여 스타일을 정의합니다.
 const AppWrapper = styled.div`
   background-color: #1e1e1e;
   max-width: 400px;
